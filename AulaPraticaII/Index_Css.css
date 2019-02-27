@@ -1,0 +1,16 @@
+.titulo{
+	font-size:40px;
+	color:pink;
+	text-decoration:underline;
+	text-align:center;
+}
+.corpo{
+	font-size:15px;
+	color:blue;
+	text-align:center;
+}
+.rodape{
+	font-size:15px;
+	color:pink;
+	text-align:center;
+}
