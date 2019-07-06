@@ -1,0 +1,22 @@
+.titulo{
+	font-family: serif;
+	font-size:30px;
+	color:#CDAD00;
+	text-align:left;
+}
+.corpo{
+	font-size:15px;
+	color:pink;
+	text-align:center;
+}
+.rodape{
+	font-size:15px;
+	color:pink;
+	text-align:center;
+}
+.imagem{
+	display: block;
+    width: 1010px;
+	max-width: 2000px
+}
+
